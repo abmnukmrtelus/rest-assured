@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="RestAssured Test Suite">
+    <test name="API Tests">
+        <packages>
+            <package name="com.rest.assured.restAssured" />
+        </packages>
+    </test>
+</suite>
